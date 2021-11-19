@@ -12,8 +12,7 @@ Placement Management system is a small application made with Python's Tkinter Li
 
 - Arrange student data in following order 
 ```bash
-PRN,fname,lname,roll_no,avg_cgpa,email,phone_no,department,,
-gender
+PRN,fname,lname,roll_no,avg_cgpa,email,phone_no,department,,gender
 ```
 - Arrange company data in following order 
 ```bash
