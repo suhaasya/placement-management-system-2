@@ -1,0 +1,6 @@
+company_id,company_name,required_cgpa,Email,phone_no
+1001, TCS,7.5,contact@tcs.com,9998887775
+1002,Accenture,8,contact@Accenture.com,9998885557
+1003,cognizant,7,contact@cognizant.com,7778889995
+1004,persistent,8.5,contact@persistent.com,8885559994
+1005,Airtel,9,contact@airtel.com,7778885559
